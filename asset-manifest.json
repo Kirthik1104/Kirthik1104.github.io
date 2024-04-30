@@ -1,11 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f056413e.css",
-<<<<<<< HEAD
-    "main.js": "./static/js/main.3b80d50f.js",
-=======
     "main.js": "./static/js/main.5c2e87d7.js",
->>>>>>> a3b2377 (second build)
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
